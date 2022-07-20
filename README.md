@@ -1,7 +1,7 @@
-Hi, I'm Thais, front end developer
+Hi, I'm Thais!
 
-- 💻 Hoje trabalho com front-end
-- 🌱Estudando Bootstrap
+- 💻 Working with front-end web development
+- 🌱 Studying Bootstrap
 
 <div align="center">
   <a href="https://github.com/thaisschleder">
