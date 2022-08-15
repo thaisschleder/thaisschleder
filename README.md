@@ -1,7 +1,7 @@
 Hi, I'm Thais!
 
 - 💻 Working with front-end web development
-- 🌱 Studying Bootstrap
+
 
 <div align="center">
   <a href="https://github.com/thaisschleder">
